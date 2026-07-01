@@ -11,7 +11,6 @@ It serves as a massive time-saver and quality-of-life improvement, especially wh
 | Version |
 | - |
 | 26.2 |
-| 26.1.X |
 
 # Keyboard Shortcuts
 - "V" = Toggle Mod On/Off
