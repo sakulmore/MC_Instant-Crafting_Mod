@@ -19,3 +19,6 @@ Keyboard Shortcuts can be changed in the game settings in the Key Bindings secti
 
 # Important information about using the mod in Multiplayer
 If you install this mod only on your own (on the client) and the server does not have it installed, the mod will not work and the item will not be crafted immediately. You will only be able to toggle between on/off states, but the function itself will not be performed.
+
+# Showcases
+Will be added later...
