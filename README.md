@@ -21,4 +21,4 @@ Keyboard Shortcuts can be changed in the game settings in the Key Bindings secti
 If you install this mod only on your own (on the client) and the server does not have it installed, the mod will not work and the item will not be crafted immediately. You will only be able to toggle between on/off states, but the function itself will not be performed.
 
 # Showcases
-[Will be added later...](https://youtu.be/hz7ZTkuTSoM)
+[https://youtu.be/hz7ZTkuTSoM](https://youtu.be/hz7ZTkuTSoM)
